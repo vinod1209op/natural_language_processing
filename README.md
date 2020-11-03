@@ -1,7 +1,7 @@
 <h1>
 NATURAL LANGUAGE PROCESSING
 </h1>
-NLP Hands on tasks by Vinod Rongala 18BCE0042
+NLP Hands on tasks by Vinod Rongala 18BCE0042<br>
 
 <p>17 july    -  nltk download, brown corpus, inaugural corpus, webtext corpus, frequency distribution</p>
 <br><p>24 july    -  lexicons, cmu wordlist, wordnet, stemming, chinese segmentation using jieba</p>
